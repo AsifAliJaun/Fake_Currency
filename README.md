@@ -1,4 +1,3 @@
-Certainly! Here's a sample GitHub README file based on the information provided:
 
 ```markdown
 # Counterfeit Currency Detection using CNN and ResNet
