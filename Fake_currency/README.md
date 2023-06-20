@@ -32,4 +32,4 @@ The program will function in the following way:
 4. An image of the note is passed as input to the Android application which returns the result with an accuracy of 70-75%.
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Viram Jain](https://github.com/viram-jain)
+Made with :heart:&nbsp;  by [Asif Ali Dar](https://github.com/AsifAliJaun)
